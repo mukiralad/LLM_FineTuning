@@ -1,0 +1,3 @@
+.env
+data/processed/*.jsonl
+data/raw/emails_data.json
