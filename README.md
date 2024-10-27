@@ -125,8 +125,6 @@ We welcome contributions to improve this project!
 - **Commit** your changes.
 - Open a **Pull Request**.
 
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
-
 ## Keywords
 - **LLM Fine-Tuning**
 - **Cold Email Generation**
